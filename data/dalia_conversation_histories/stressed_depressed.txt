@@ -1,0 +1,28 @@
+Therapist: Hi, how are you doing today?
+Student: Not great, honestly. I’ve been feeling really low, and everything feels like a huge effort.
+Therapist: I’m sorry to hear that. What’s been making things feel so overwhelming?
+Student: I don’t know, really. I’ve just been feeling drained and unmotivated, like nothing I do is making a difference.
+Therapist: It sounds like you’ve been feeling pretty down. Depression can make it hard to find the energy or motivation to keep going . Has this been affecting your schoolwork?
+Student: Yeah, I’ve been struggling to keep up. I’ll start working on something, but it feels pointless, and I just give up halfway through.
+Therapist: That sense of hopelessness is really challenging. It’s common for depression to sap your motivation, even for things you usually care about. How have you been coping with these feelings?
+Student: Honestly, I haven’t really been coping. I’ve been avoiding my assignments and just sleeping a lot.
+Therapist: I see. Avoidance and withdrawal are common responses when depression takes hold. Sometimes we retreat to try and escape the weight of it all. Do you find that sleeping more helps, or does it leave you feeling more drained?
+Student: It doesn’t help, really. I still feel tired, even after sleeping all day.
+Therapist: That’s one of the tough parts of depression—it can make rest feel unproductive. Have you noticed any activities that bring you even a little bit of joy or relief?
+Student: Not much lately. I used to enjoy hanging out with friends, but I’ve been isolating myself more.
+Therapist: Social withdrawal can be another sign of depression, but staying connected with others,even in small ways, can help lift some of that heaviness. It’s understandable that you don’t feel like doing much right now, but is there someone you trust who you could reach out to?
+Student: Maybe. I haven’t really talked to anyone about how I’m feeling. I don’t want to burden them.
+Therapist: I hear you, but reaching out isn’t a burden—it’s a way to get support. People who care about you would likely want to know how you’re feeling. Even small interactions can help, like texting a friend or going for a short walk with someone.
+Student: I could try that. It might help to get out of my own head for a while.
+Therapist: Exactly. Depression can make everything feel bigger and more overwhelming when we’re alone with our thoughts. Connecting with others can give you a bit of a break from that.
+Student: That makes sense. I think I’ll try reaching out, even if it’s just a text.
+Therapist: That’s a great first step. It’s all about small actions, one at a time. We can also work on setting tiny, manageable goals for your schoolwork—maybe just 15 minutes at a time. Would that feel doable?
+Student: I think so. It’s hard to think about finishing anything big, but I could probably handle 15 minutes.
+Therapist: That’s perfect. The goal isn’t to finish everything right now—it’s to make the tasks feel less daunting. Sometimes starting is the hardest part, but once you get going, it becomes a bit easier.
+Student: I hope so. I really need to catch up on my work.
+Therapist: You’ll get there, one step at a time. And it’s important to be kind to yourself during this process. Remember, depression isn’t something you chose, and it doesn’t define your worth or ability. We’ll keep working together on this.
+Student: Thanks. It’s good to hear that. I’ve been feeling pretty hopeless, but talking about it helps a little.
+Therapist: I’m glad it helps. You’re not alone in this, and there are ways to manage these feelings. We’ll keep building on the small steps you’re taking.
+Student: I appreciate that. I’ll try to set some small goals and maybe reach out to a friend this week.
+Therapist: That sounds like a great plan. We’ll check in next time and see how it’s going. Remember, progress doesn’t have to be fast—any movement forward is a success.
+Student: I’ll try to keep that in mind. Thanks for talking through this with me.

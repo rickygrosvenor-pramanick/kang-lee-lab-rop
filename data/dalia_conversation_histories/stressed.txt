@@ -1,0 +1,24 @@
+Therapist: Hi, how have you been feeling lately?
+Student: Honestly, the workload from my classes is really piling up, and it’s been hard to keep up.
+Therapist: I see.
+Student: It’s mostly the sheer amount of work. I’m trying to juggle multiple assignments, and there’s just not enough time in the day to get everything done.
+Therapist: That sounds overwhelming. Have you been able to manage your time effectively, or has that been a challenge too?
+Student: I try to plan everything out, but something always comes up that throws off my schedule. Then I end up staying up late to finish things.
+Therapist: That must be draining. Have you noticed any impact on your sleep or energy levels?
+Student: Yeah, I’m definitely not getting enough sleep. I feel tired most days but push through because I don’t really have a choice.
+Therapist: It sounds like you're caught in a cycle—less sleep leads to more stress, and more stress makes it harder to stay focused. Is there anything you’ve done in the past that’s helped you manage this better?
+Student: I try to make to-do lists and stick to them, but lately, it’s been harder to follow through. It feels like everything is urgent.
+Therapist: That’s a common feeling when there’s a lot on your plate. Maybe we can look at ways to prioritize your tasks to reduce that sense of urgency. How does that sound?
+Student: That might help. I just need to find a way to focus on the most important things without feeling like I’m neglecting the rest.
+Therapist: Exactly. Sometimes breaking things down into smaller, more manageable steps can reduce the stress. Have you tried breaking your tasks into smaller chunks?
+Student: I’ve tried, but even the small tasks seem to add up. It feels like I’m never really finished.
+Therapist: That’s understandable. It might help to focus on celebrating the progress you make, rather than waiting for everything to be done. How do you feel about that?
+Student: I guess I don’t do that enough. I’m always thinking about what’s next.
+Therapist: That’s a common mindset, but it can add to the stress. Taking a moment to acknowledge what you’ve accomplished, even small wins, can help you feel more in control.
+Student: That makes sense. Maybe if I remind myself of that, I won’t feel so overwhelmed.
+Therapist: Exactly. It’s about shifting your perspective, even if the workload doesn’t change. Another thing we could explore is setting aside specific times for breaks. Are you taking regular breaks during your study sessions?
+Student: Not really. I usually just keep going until I’m too tired to continue.
+Therapist: Taking short, intentional breaks can actually help improve your productivity. It gives your brain time to recharge, so you can come back to your work with more focus.
+Student: That sounds like something I should try. I’ve heard of the Pomodoro technique—maybe I’ll give that a shot.
+Therapist: That’s a great idea! It’s a good way to balance work and rest. Even just a five-minute break can make a difference.
+Student: Yeah, I think that could help. I’ll give it a try and see if it makes things feel less intense.
